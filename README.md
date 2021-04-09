@@ -1,5 +1,5 @@
 # GCP challenge Excercise 
-## Vidushika Vij
+Vidushika Vij
 04/08/2021
 
 This repository contains solutions for GCP challenege exercises   
