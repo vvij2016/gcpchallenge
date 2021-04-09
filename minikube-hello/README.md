@@ -21,7 +21,7 @@ Using the docker container for the app to local minikube repository
 
 ```
 minikube image load node:6-alpine
-docker build -t helloapp .
+docker build -t hello-node .
 ```
 
 This created a docker image in my local minikube repository.   
